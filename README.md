@@ -2,7 +2,7 @@
 
 ---
 
-🎓 I'm currently a 2nd year Computer Engineering student at Simon Fraser University
+🎓 I'm currently a 3rd year Computer Engineering student at Simon Fraser University
 
 🤝 Feel free to explore my repositories and connect with me:
 
